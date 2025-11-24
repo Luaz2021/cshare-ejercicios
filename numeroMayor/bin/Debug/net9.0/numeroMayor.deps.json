@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "numeroMayor/1.0.0": {
+        "runtime": {
+          "numeroMayor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "numeroMayor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
